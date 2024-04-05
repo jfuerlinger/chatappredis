@@ -22,6 +22,8 @@ dotnet user-secrets set "aoaiEndpoint" "your_openai_endpoint"
 dotnet user-secrets set "aoaiEmbeddingModel" "your_textembeddingadamodel_deployment"
 dotnet user-secrets set "aoaiApiKey" "your_azureopenai_key"
 ```
+3. [Personal secrets](https://gist.github.com/jfuerlinger/2b2854aa2c97364e481e795152e6ff24)
+
 3. Build and run the application
 ```
 dotnet build
